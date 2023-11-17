@@ -70,69 +70,6 @@ http://197.26.19.139:8000/Matrix80/Matrix80/329336
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", beIN.SPORTS 8HD
 http://197.26.19.139:8000/Matrix80/Matrix80/463420
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MRTV-4
-http://183.89.246.119:8881/play/a07u/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Channel-7
-http://183.89.246.119:8881/play/a07v/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Mahar
-http://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Mizzima Tv
-http://183.89.246.119:8881/play/a0ao/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Mizzima+
-http://183.89.246.119:8881/play/a0ap/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Mahar Esport
-http://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-FortuneTv
-http://183.89.246.119:8881/play/a082/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Channelk
-http://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-YTV
-http://183.89.246.119:8881/play/a081/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-5Plus
-http://183.89.246.119:8881/play/a07w/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Channel Me
-http://183.89.246.119:8881/play/a07t/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Channel-9
-http://183.89.246.119:8881/play/a07y/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MITV
-http://183.89.246.119:8881/play/a07r/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MRTV Farmers
-http://183.89.246.119:8881/play/a07p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MRTV
-http://183.89.246.119:8881/play/a07l/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MRTV NRC
-http://183.89.246.119:8881/play/a07o/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MRTV News
-http://183.89.246.119:8881/play/a07m/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MRTV Sport
-http://183.89.246.119:8881/play/a07q/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-MRTV Parliament
-http://183.89.246.119:8881/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", MM-Myanamr Music
-http://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TRUE EPL1
 http://ctrl.laotv.la/live/TSport1/index.m3u8
 
@@ -408,34 +345,3 @@ http://ctrl.laotv.la/live/JKN18/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", THAI-CH7 HD
 http://ctrl.laotv.la/live/Thai7/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT 1 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36207
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT 2 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36208
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT 3 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36209
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT MAX 4 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36210
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT MAX 5 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36211
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT MAX 6 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36212
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT MAX 7 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36213
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT MAX 8 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36214
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT MAX 9 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36215
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORT MAX 10 HD
-http://197.26.19.139:8000/Matrix80/Matrix80/36216
-
